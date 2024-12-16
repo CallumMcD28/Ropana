@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(189, 234, 255);
+}
+
+header {
+    background-color: white;
+}
+
+header h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#img_sunset {
+    position: fixed;
+    top:0;
+    left:0;
+    height:100vh;
+    z-index: -1;
+
+}
+h1 {
+    color:white;
+}
+.card {
+    min-width:fit-content;
+    min-height: 600px;
+}
+
+.card .card-img-top {
+    min-height: 300px;
+}
+
+footer {
+    background-color: white;
+
+}
